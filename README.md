@@ -10,7 +10,7 @@ I’m currently learning:
 - Rust
 - Python
 
-I’m looking to collaborate on any projects using C/C++, Python, Perl, Go. Particularly interesting in projects that have math/science connections
+I’m looking to collaborate on any projects using C/C++, Python, Perl, Go. Particularly interested in projects that have math/science aspects
 or radio control.
 
 
