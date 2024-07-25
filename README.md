@@ -2,6 +2,8 @@ Hi, I’m @spinolio (aka Esteban). I’m interested in:
 - Cycling
 - Microcontroller programming
 - Linux
+- 3D design/printing
+- Volunteering with dogs at a local pet shelter
 
 I’m currently learning:
 - Go
